@@ -1,0 +1,3 @@
+com\runner\AmazonLogInRunner.class
+com\main\run\TestRun.class
+com\stepdef\LogInStepDef.class
